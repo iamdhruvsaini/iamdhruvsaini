@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<center><img src="https://imgs.search.brave.com/bYh4_CdRn29d7TRV5ueP5p2o6AjPlnLtiVRQlv7-bRM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ5/Mzc2Njk0OC9waG90/by9mZW1hbGUtZGV2/ZWxvcGVycy11c2lu/Zy1haS13cml0ZXMt/dGhlLWNvZGUtZm9y/LWRhdGEtYW5hbHl0/aWNzLndlYnA_Yj0x/JnM9MTcwNjY3YSZ3/PTAmaz0yMCZjPUxF/bGhRRzJOZUxsZC15/aUFIcmVuSFhJMnRT/MklfT0YtLXF2dlA0/eEtiUDA9" alt="coder"></center>
+<div align="center">
+    <img src="https://imgs.search.brave.com/bYh4_CdRn29d7TRV5ueP5p2o6AjPlnLtiVRQlv7-bRM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ5/Mzc2Njk0OC9waG90/by9mZW1hbGUtZGV2/ZWxvcGVycy11c2lu/Zy1haS13cml0ZXMt/dGhlLWNvZGUtZm9y/LWRhdGEtYW5hbHl0/aWNzLndlYnA_Yj0x/JnM9MTcwNjY3YSZ3/PTAmaz0yMCZjPUxF/bGhRRzJOZUxsZC15/aUFIcmVuSFhJMnRT/MklfT0YtLXF2dlA0/eEtiUDA9" alt="coder">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdhruvsaini&label=Profile%20views&color=0e75b6&style=flat" alt="iamdhruvsaini" /> </p>
 
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdhruvsaini" alt="iamdhruvsaini" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
