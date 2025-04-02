@@ -93,7 +93,7 @@ const DhruvSaini = {
 
 ## 🔥 What I'm Up To
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Working on **full-stack applications with React, Node.js, and PostgreSQL** <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Working on **full-stack applications with React, Node.js, and PostgreSQL** <img align="right" src="https://raw.githubusercontent.com/iamdhruvsaini/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Exploring **distributed systems and real-time applications with WebSockets** <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web Development, Databases, or System Architecture** <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first computer bug was an actual real-life moth found inside Harvard's Mark II computer in 1947.<br>
@@ -101,17 +101,17 @@ const DhruvSaini = {
 ## 📈 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/dhruvsaini">
+<a href="https://github.com/iamdhruvsaini">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvsaini&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvsaini&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamdhruvsaini&show_icons=true&theme=tokyonight" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdhruvsaini&theme=tokyonight" width="48%" />
 
 </a>
 
 <details>
   <summary>More stats</summary>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsaini&theme=tokyonight&layout=compact" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhruvsaini&theme=tokyonight&layout=compact" >
 
 </details>
   
@@ -119,12 +119,6 @@ const DhruvSaini = {
 
 **The Dev Journey**<br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Debugging"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It works!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It works but I don't know why!"/><br>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/iamdhruvsaini/iamdhruvsaini/blob/output/github-snake-dark.svg)
 
 </div>
