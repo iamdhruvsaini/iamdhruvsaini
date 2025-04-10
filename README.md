@@ -93,7 +93,7 @@ const DhruvSaini = {
 
 ## 🔥 What I'm Up To
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Working on **full-stack applications with React, Node.js, and PostgreSQL** <img align="right" src="https://raw.githubusercontent.com/iamdhruvsaini/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Working on **full-stack applications with React, Node.js, and PostgreSQL** <img align="right" src="https://raw.githubusercontent.com/DeveshYadav13/DeveshYadav13/master/Resources/Developer.gif" alt="Coding" width="20%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Exploring **distributed systems and real-time applications with WebSockets** <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web Development, Databases, or System Architecture** <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first computer bug was an actual real-life moth found inside Harvard's Mark II computer in 1947.<br>
