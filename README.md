@@ -74,11 +74,10 @@
 // Tools in my daily workflow
 
 const DhruvSaini = {
-  code: ["JavaScript", "TypeScript", "Python", "Go", "Java"],
+  code: ["JavaScript", "TypeScript", "Python", "C++", "Java"],
   frontEnd: {
     frameworks: ["React", "Next.js", "Redux"],
     styling: ["Tailwind CSS", "Chakra UI", "Styled Components"],
-    mobile: ["React Native", "Flutter"]
   },
   backEnd: {
     frameworks: ["Node.js", "Express", "Flask"],
