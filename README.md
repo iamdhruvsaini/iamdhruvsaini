@@ -69,27 +69,6 @@ const DhruvSaini = {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Web Development, Databases, or System Architecture** <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The first computer bug was an actual real-life moth found inside Harvard's Mark II computer in 1947.<br>
 
-## 📈 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/iamdhruvsaini">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iamdhruvsaini&show_icons=true&theme=tokyonight"  height="50%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdhruvsaini&theme=tokyonight" height="50%" />
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdhruvsaini&theme=tokyonight&layout=compact" >
-
-</details>
-  
-<hr></hr>
-
-**The Dev Journey**<br>
-
-![snake gif](https://github.com/iamdhruvsaini/iamdhruvsaini/blob/output/github-snake-dark.svg)
 
 </div>
