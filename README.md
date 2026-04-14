@@ -1,20 +1,5 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dhruv%20Saini&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontAlign=50&fontFamily=JetBrains%20Mono" />
-
-<!-- Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Open-Source+Enthusiast;Microservices+%26+Distributed+Systems;AI+Engineering+%26+Agentic+Workflows;Always+Learning+%26+Building)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me  
-Hi, I’m **Dhruv Saini** — a developer passionate about building **scalable**, **real‑time**, and **AI‑driven** products.  
-I love **clean architecture**, **modern UI/UX**, and **high‑impact engineering**.
-
----
 
 ## ⚡ Tech Arsenal
 
