@@ -49,17 +49,6 @@ const DhruvSaini = {
 };
 ```
 
----
-
-## 🔥 What I’m Up To
-
-- 🚀 Building **scalable applications** with React, Node.js, PostgreSQL & Spring Boot  
-- 🌐 Exploring **distributed systems** and **real‑time apps**  
-- 🤖 Experimenting with **LangChain + Agentic AI workflows**  
-- 💬 Ask me about **Web Development, Databases, or System Design**  
-- 🪲 Fun fact: The first computer bug was a real moth found in 1947  
-
----
 
 <div align="center">
 
