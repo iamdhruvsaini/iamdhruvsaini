@@ -20,6 +20,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### 🏗️ System Design & Architecture
+![System Design](https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-4B8BBE?style=for-the-badge&logo=apache&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring%20Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
 ### 🤖 AI & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-0FA5FF?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Agentic%20AI](https://img.shields.io/badge/Agentic%20AI-7B2CBF?style=for-the-badge&logo=artstation&logoColor=white)
@@ -42,6 +52,7 @@ const DhruvSaini = {
   frontEnd: ["React", "Next.js", "Redux", "Tailwind CSS", "Chakra UI"],
   backEnd: ["Node.js", "Express", "Flask", "Spring Boot", "Socket.IO"],
   databases: ["PostgreSQL", "MongoDB", "Firebase", "NeonDB", "SQLite"],
+  systemDesign: ["Microservices", "Distributed Systems", "HLD/LLD", "Event-Driven Architecture"],
   devOps: ["Docker", "AWS", "Vercel", "Render", "Heroku"],
   ai: ["LangChain", "Agentic AI"],
   currentFocus: "Microservices + Distributed Systems + AI Agents",
